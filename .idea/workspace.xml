@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c21d1e2-1e51-48bd-9dfb-d769cc340e5c" name="Changes" comment="learn and learn" />
+    <list default="true" id="3c21d1e2-1e51-48bd-9dfb-d769cc340e5c" name="Changes" comment="learn and learn">
+      <change afterPath="$PROJECT_DIR$/Transaction/src/main/java/SimpleController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
